@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenses_list/static/css/main.7728415b.css",
+    "main.js": "/expenses_list/static/js/main.030ffb48.js",
+    "index.html": "/expenses_list/index.html",
+    "main.7728415b.css.map": "/expenses_list/static/css/main.7728415b.css.map",
+    "main.030ffb48.js.map": "/expenses_list/static/js/main.030ffb48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7728415b.css",
+    "static/js/main.030ffb48.js"
+  ]
+}
