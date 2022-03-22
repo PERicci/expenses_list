@@ -1,6 +1,6 @@
 # Expenses List
 
-My first React project with hooks (useState): A list that you can register your expenses.
+My first React project with hooks (useState). A list that you can register your expenses.
 
 ## Technologies
 
@@ -11,10 +11,10 @@ My first React project with hooks (useState): A list that you can register your 
 
 ## See my [Portfolio website](https://PERicci.github.io/)! 😃
 
-<img src="../assets/github/wave2.gif" width="30px"> Hello everyone, this is my [portfolio website](https://PERicci.github.io/)!
+<img src="./assets/github/wave2.gif" width="30px"> Hello everyone, this is my [portfolio website](https://PERicci.github.io/)!
 
 - :mortar_board: Licentiate degree in Physics
-'
+  '
 - :atom_symbol: Currently studying **React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller**
 
 - :speech_balloon: Proficient in English, Spanish and Portuguese
@@ -29,9 +29,9 @@ My first React project with hooks (useState): A list that you can register your 
 
 #### How to reach me:
 
-[![portfolio](../assets/github/portfolio120.png)][1]
-[![linkedin](../assets/github/linkedin.png)][2]
-[![mail](../assets/github/mail.png)][3]
+[![portfolio](./assets/github/portfolio120.png)][1]
+[![linkedin](./assets/github/linkedin.png)][2]
+[![mail](./assets/github/mail.png)][3]
 
 [1]: https://PERicci.github.io/
 [2]: https://www.linkedin.com/in/pedro-eugenio-ricciardi-a356a2219/
@@ -41,7 +41,6 @@ My first React project with hooks (useState): A list that you can register your 
 
 Thank you for visiting!
 
-<img src="../assets/github/thanks.gif" width="130px">
-
+<img src="./assets/github/thanks.gif" width="130px">
 
 <sub>Project created following instructions from React - The Complete Guide course (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller.</sub>
